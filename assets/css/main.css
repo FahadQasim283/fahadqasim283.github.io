@@ -1,0 +1,17 @@
+/* Main styles for portfolio website */
+:root {
+    --bg-color: #1A1A1A;
+    --text-color: #E0E0E0;
+    --accent-1: #8A2BE2;
+    --accent-2: #20C997;
+    --neumorph-shadow: 10px 10px 20px #0d0d0d,
+        -10px -10px 20px #272727;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: var(--text-color);
+    background-color: var(--bg-color);
+    margin: 0;
+    padding: 0;
+}

@@ -1,0 +1,14 @@
+.neumorphic-card {
+    background: var(--bg-color);
+    border-radius: 15px;
+    box-shadow: var(--neumorph-shadow);
+    transition: transform 0.3s ease;
+}
+
+.neumorphic-btn {
+    padding: 12px 24px;
+    border: none;
+    border-radius: 8px;
+    background: var(--bg-color);
+    box-shadow: var(--neumorph-shadow);
+}
